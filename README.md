@@ -40,7 +40,3 @@ Using Python libraries and financial modeling techniques, we construct an effici
 * Risk-return scatter plot with optimal portfolio highlighted
 * Efficient frontier curve
 
-📬 Contact
-For any questions or suggestions, feel free to reach out:
-* Email: sayyedmisha@gmail.com
-* LinkedIn: https://www.linkedin.com/in/mishaalam
